@@ -20,7 +20,7 @@ Each project demonstrates key web development skills using semantic HTML and mod
 | 7   | Learn CSS Flexbox by Building a Photo Gallery                                | [GitHub](https://github.com/abhishekdevelops/Photo_Gallery) | [Live](https://abhishekdevelops.github.io/Photo_Gallery)   |
 | 8   | Learn Typography by Building a Nutrition Label                               | [GitHub](https://github.com/abhishekdevelops/Nutrition-Label) | [Live](https://abhishekdevelops.github.io/Nutrition-Label) |
 | 9   | Learn Accessibility by Building a Quiz                                       | [GitHub](https://github.com/abhishekdevelops/Quiz)         | [Live](https://abhishekdevelops.github.io/Quiz)            |
-| 10  | Building a Tribute Page – Certification Project                              | [GitHub](https://github.com/abhishekdevelops/Tribute-Page) | [Live](https://abhishekdevelops.github.io/Tribute-Page)    |
+| 10  | Building a Tribute Page   Project                              | [GitHub](https://github.com/abhishekdevelops/Tribute-Page) | [Live](https://abhishekdevelops.github.io/Tribute-Page)    |
 | 11  | Learn More About CSS Pseudo Selectors by Building a Balance Sheet            | [GitHub](https://github.com/abhishekdevelops/Balance-Sheet) | [Live](https://abhishekdevelops.github.io/Balance-Sheet)   |
 | 12  | Learn Intermediate CSS by Building a Cat Painting                            | [GitHub](https://github.com/abhishekdevelops/Cat-Painting) | [Live](https://abhishekdevelops.github.io/Cat-Painting)    |
 | 13  | Learn Responsive Web Design by Building a Piano                              | [GitHub](https://github.com/abhishekdevelops/Piano)        | [Live](https://abhishekdevelops.github.io/Piano)           |
